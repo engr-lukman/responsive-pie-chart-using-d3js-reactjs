@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.d3js svg {
+  background: #eee;
+  overflow: visible;
+  display: block;
+}
